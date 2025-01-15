@@ -30,7 +30,16 @@ A comprehensive data analysis and visualization project using the Superstore dat
 
 6. **Potential Extensions**:  
    - Include machine learning models for sales prediction or customer segmentation.  
-   - Integrate geographical visualizations using `folium` or `plotly`.  
+   - Integrate geographical visualizations using `folium` or `plotly`.
+  
+   - Usage:
+
+Clone the repository and execute the notebook or script to reproduce the results.
+Use the visualizations to identify trends and patterns in the Superstore dataset.
+Potential Extensions:
+
+Include machine learning models for sales prediction or customer segmentation.
+Integrate geographical visualizations using folium or plotly.
 
 
 
